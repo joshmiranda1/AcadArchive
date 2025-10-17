@@ -105,7 +105,7 @@ _Add screenshots of your app UI here once available._
 ## 👨‍💻 Author
 **Josh Danielle Miranda**  
 📧 [joshdaniellemiranda@gmail.com](mailto:joshdaniellemiranda@gmail.com)
-**\nKian Dela Cruz**  
+## **Kian Dela Cruz**  
 📧 [kiancruz810@gmail.com](mailto:kiancruz810@gmail.com)
 ---
 
