@@ -14,7 +14,7 @@ Future<void> main() async {
 }
 
 class MainApp extends StatefulWidget {
-  final bool isLoggedIn;
+  
   const MainApp({super.key, required this.isLoggedIn});
 
   @override
