@@ -106,7 +106,7 @@ _Add screenshots of your app UI here once available._
 **Josh Danielle Miranda**  
 📧 [joshdaniellemiranda@gmail.com](mailto:joshdaniellemiranda@gmail.com)
 **Kian Dela Cruz**  
-📧 [kiancruz810@gmal.com](mailto:kiancruz810@gmail.com)
+📧 [kiancruz810@gmail.com](mailto:kiancruz810@gmail.com)
 ---
 
 ## 🪪 License
